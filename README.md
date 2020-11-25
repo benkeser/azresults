@@ -6,7 +6,8 @@ details](https://www.astrazeneca.com/media-centre/press-releases/2020/azd1222hlr
 of results from ongoing clinical trials of their COVID-19 vaccine. Below
 are calculations of what 95% confidence intervals might look like for
 these results based on the anticipated case splits given the reported
-VE.
+VE. I wrote about it [on
+Twitter](https://twitter.com/biosbenk/status/1331673833934368771?s=20).
 
 **tldr**: UK trial = 90.0% (67.3%, 96.9%), Brazil = 62.0% (40.9%, 75.5%)
 
